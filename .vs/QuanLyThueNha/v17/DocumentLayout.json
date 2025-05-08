@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\QuanLyThueNha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF8973B-215D-478F-9970-075C89C3B15A}|QuanLyThueNha\\QuanLyThueNha.csproj|e:\\quanlythuenha\\quanlythuenha\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF8973B-215D-478F-9970-075C89C3B15A}|QuanLyThueNha\\QuanLyThueNha.csproj|solutionrelative:quanlythuenha\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF8973B-215D-478F-9970-075C89C3B15A}|QuanLyThueNha\\QuanLyThueNha.csproj|E:\\QuanLyThueNha\\quanlythuenha\\childform\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABF8973B-215D-478F-9970-075C89C3B15A}|QuanLyThueNha\\QuanLyThueNha.csproj|solutionrelative:quanlythuenha\\childform\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF8973B-215D-478F-9970-075C89C3B15A}|QuanLyThueNha\\QuanLyThueNha.csproj|E:\\QuanLyThueNha\\quanlythuenha\\childform\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABF8973B-215D-478F-9970-075C89C3B15A}|QuanLyThueNha\\QuanLyThueNha.csproj|solutionrelative:quanlythuenha\\childform\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "E:\\QuanLyThueNha\\QuanLyThueNha\\Database.cs",
+              "RelativeDocumentMoniker": "QuanLyThueNha\\Database.cs",
+              "ToolTip": "E:\\QuanLyThueNha\\QuanLyThueNha\\Database.cs",
+              "RelativeToolTip": "QuanLyThueNha\\Database.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:35:11.498Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmThanhToan.cs [Design]",
+              "DocumentMoniker": "E:\\QuanLyThueNha\\QuanLyThueNha\\ChildForm\\frmThanhToan.cs",
+              "RelativeDocumentMoniker": "QuanLyThueNha\\ChildForm\\frmThanhToan.cs",
+              "ToolTip": "E:\\QuanLyThueNha\\QuanLyThueNha\\ChildForm\\frmThanhToan.cs [Design]",
+              "RelativeToolTip": "QuanLyThueNha\\ChildForm\\frmThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:36:53.279Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmThanhToan.cs",
+              "DocumentMoniker": "E:\\QuanLyThueNha\\QuanLyThueNha\\ChildForm\\frmThanhToan.cs",
+              "RelativeDocumentMoniker": "QuanLyThueNha\\ChildForm\\frmThanhToan.cs",
+              "ToolTip": "E:\\QuanLyThueNha\\QuanLyThueNha\\ChildForm\\frmThanhToan.cs",
+              "RelativeToolTip": "QuanLyThueNha\\ChildForm\\frmThanhToan.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAADwv7gAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T04:33:28.156Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

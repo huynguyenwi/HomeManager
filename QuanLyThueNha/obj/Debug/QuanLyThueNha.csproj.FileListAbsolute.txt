@@ -1,0 +1,273 @@
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe.config
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.pdb
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.AssemblyReference.cache
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.frmMain.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Properties.Resources.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.GenerateResource.cache
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.CoreCompileInputs.cache
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.exe
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.pdb
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmWelcome.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmLoaiNha.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmNha.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmXuLyNha.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmThueNha.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmChotDienNuoc.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmThanhToan.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmThue.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmTraNha.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmCauHinh.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmXuLyCauHinh.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmNhaDangThue.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmNhaChuaThue.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmDoanhThu.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmKhachHang.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmDangNhap.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.frmDangKy.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmDoiMatKhau.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\EnvDTE.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\stdole.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyTh.244D94DE.Up2Date
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\inNhaDangThue.rdlc
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInNhaDangThue.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInDoanhThu.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\inDoanhThu.rdlc
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInKhachHang.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\inKhachHang.rdlc
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInNhaChuaThue.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\inNhaChuaThue.rdlc
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInHoaDonThanhToan.resources
+C:\Users\Razer Blade 15\Desktop\Quản Lý Thuê Nhà\QuanLyThueNha\QuanLyThueNha\bin\Debug\inHoaDonThanhToan.rdlc
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\inDoanhThu.rdlc
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\inHoaDonThanhToan.rdlc
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\inKhachHang.rdlc
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\inNhaChuaThue.rdlc
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\inNhaDangThue.rdlc
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe.config
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.pdb
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\EnvDTE.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\stdole.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.AssemblyReference.cache
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmCauHinh.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmChotDienNuoc.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmDoiMatKhau.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInDoanhThu.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInHoaDonThanhToan.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInKhachHang.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInNhaChuaThue.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInNhaDangThue.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.frmDangKy.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmDangNhap.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmDoanhThu.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmKhachHang.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmLoaiNha.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmNha.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmNhaChuaThue.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmNhaDangThue.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmThanhToan.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmThue.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmThueNha.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmTraNha.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmWelcome.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmXuLyCauHinh.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmXuLyNha.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.frmMain.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Properties.Resources.resources
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.GenerateResource.cache
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.CoreCompileInputs.cache
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyTh.244D94DE.Up2Date
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.exe
+C:\Users\Razer Blade 15\Desktop\Nhom9_QuanLyThueNha\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.pdb
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\inDoanhThu.rdlc
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\inHoaDonThanhToan.rdlc
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\inKhachHang.rdlc
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\inNhaChuaThue.rdlc
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\inNhaDangThue.rdlc
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe.config
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.exe
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\QuanLyThueNha.pdb
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\EnvDTE.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\stdole.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.AssemblyReference.cache
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmCauHinh.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmChotDienNuoc.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmDoiMatKhau.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInDoanhThu.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInHoaDonThanhToan.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInKhachHang.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInNhaChuaThue.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmInNhaDangThue.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.frmDangKy.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmDangNhap.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmDoanhThu.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmKhachHang.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmLoaiNha.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmNha.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmNhaChuaThue.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmNhaDangThue.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmThanhToan.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmThue.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmThueNha.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmTraNha.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmWelcome.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmXuLyCauHinh.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.ChildForm.frmXuLyNha.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.frmMain.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.Properties.Resources.resources
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.GenerateResource.cache
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.csproj.CoreCompileInputs.cache
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyTh.244D94DE.Up2Date
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.exe
+E:\QuanLyThueNha\QuanLyThueNha\obj\Debug\QuanLyThueNha.pdb
